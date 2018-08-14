@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/gesab001/minuteBibleAndroid" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gesab001/dialer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\14400\Documents\androidApp" />
+    <option name="cloneParentDir" value="C:\Users\14400\Documents\androidApps" />
   </component>
 </application>
